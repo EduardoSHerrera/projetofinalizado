@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tDHzkUdFpjv+LxE/T63MSS6l7OmwEdSAz+Vuz+oiIH+ZTuniVh+IqXUKlIQT/XKpC2298BEwnyMgutuabDWP/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dudsh\\OneDrive\\Documentos\\trabalho_tcc\\piloto\\tcc_fita\\tcc_fita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dudsh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

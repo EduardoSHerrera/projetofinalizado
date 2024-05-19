@@ -1,0 +1,8 @@
+C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\obj\Debug\net8.0\projeto_fitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\obj\Debug\net8.0\projeto_fitas.AssemblyInfoInputs.cache
+C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\obj\Debug\net8.0\projeto_fitas.AssemblyInfo.cs
+C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\obj\Debug\net8.0\projeto_fitas.csproj.CoreCompileInputs.cache
+C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\obj\Debug\net8.0\projeto_fitas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\obj\Debug\net8.0\projeto_fitas.RazorAssemblyInfo.cache
+C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\obj\Debug\net8.0\projeto_fitas.RazorAssemblyInfo.cs
+C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\obj\Debug\net8.0\projeto_fitas.csproj.AssemblyReference.cache

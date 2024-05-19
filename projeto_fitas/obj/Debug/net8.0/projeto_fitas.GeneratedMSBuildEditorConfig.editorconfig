@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = projeto_fitas
+build_property.RootNamespace = projeto_fitas
+build_property.ProjectDir = C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dudsh\OneDrive\Documentos\trabalho_tcc\projeto_fitas
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Etiqueta/Etiqueta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFcRXRpcXVldGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Etiqueta/ModalFitas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFcTW9kYWxGaXRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Home/CadastroUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryb1VzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Home/CriarImpressao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmlhckltcHJlc3Nhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Home/Entrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbnRyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Pdf/PDF_TESTE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRmXFBERl9URVNURS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudsh/OneDrive/Documentos/trabalho_tcc/projeto_fitas/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wttgszvnsi
